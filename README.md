@@ -51,8 +51,12 @@ View the full interactive visualization dashboard on Tableau Public:
 │   └── listings.csv                                    # Raw Airbnb dataset
 ├── docs/
 │   └── executive-summary_and_business_recommendations.md # Strategic Business Report
+├── images/
+|    └── airbnb analytics 1.png #Exective Dashboard
+|    └── airbnb analytics 2.png #Price Drivers
+|    └── airbnb analytics 3.png #Statistical Analysis
 ├── notebooks/
 │   └── airbnb_data_cleaning_and_preprocessing.ipynb    # Data Cleaning & Preprocessing
-    └── airbnb_eda_and_hypothesis_testing.ipynb         # EDA & Hypothesis Testing
+|   └── airbnb_eda_and_hypothesis_testing.ipynb         # EDA & Hypothesis Testing
 ├── README.md                                           # Repository Overview
 └── requirements.txt                                    # Dependencies
