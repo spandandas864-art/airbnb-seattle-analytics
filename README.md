@@ -21,7 +21,7 @@ Across **3,730 total listings** analyzed in Seattle, the market reflects an aver
 ## Interactive Dashboard
 
 View the full interactive visualization dashboard on Tableau Public:  
-👉 **[[Seattle Airbnb Tableau Public Dashboard](INSERT_YOUR_TABLEAU_PUBLIC_URL_HERE)](https://public.tableau.com/views/airbnbanalytics_17891255294750/Executive?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+👉 **[https://public.tableau.com/views/airbnbanalytics_17891255294750/Executive?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]**
 
 ---
 
